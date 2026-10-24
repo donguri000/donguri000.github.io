@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>rclone-donguri100</title>
+</head>
+<body>
+<h1>rclone-donguri100</h1>
+<p>Personal Google Drive integration using rclone.</p>
+<p>This application allows its owner to access,
+read, create, modify, and delete files in
+their own Google Drive from a local computer.</p>
+<p>This website does not access or store Google Drive files.</p>
+<p><a href="privacy.html">Privacy Policy</a></p>
+</body>
+</html>
